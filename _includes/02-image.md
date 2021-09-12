@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![KappaPride](https://user-images.githubusercontent.com/8578834/132993912-d0b9d353-9244-46e5-aa20-2304826c2e7f.png)
